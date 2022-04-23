@@ -9,7 +9,7 @@
     tools:context=".Activity1">
 
     <ImageView
-        android:layout_width="313dp"
+        android:layout_width="303dp"
         android:layout_height="308dp"
         android:layout_margin="@dimen/cardview_default_radius"
         android:cropToPadding="true"
