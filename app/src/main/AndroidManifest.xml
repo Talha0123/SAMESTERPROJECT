@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Raasta">
         <activity
+            android:name=".splashscreen"
+            android:exported="false" />
+        <activity
             android:name=".loginorsignup"
             android:exported="false" />
         <activity
